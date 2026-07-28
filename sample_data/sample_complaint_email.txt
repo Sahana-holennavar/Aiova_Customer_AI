@@ -1,0 +1,35 @@
+From: procurement@meridianpharma.com
+To: quality.complaints@aivoa-api.com
+Subject: URGENT - Discoloration observed in Metformin HCl API - Batch MHC-2411-08
+
+Hello Quality Team,
+
+We are writing to formally report a quality issue with a recent shipment of
+Metformin Hydrochloride API supplied to our finished dosage facility.
+
+Batch/Lot Number: MHC-2411-08
+Quantity Received: 250 kg (in 5 x 50kg fiber drums)
+Date of Receipt: 03-Jun-2026
+Manufacturing Date (per COA): Nov-2024
+Retest Date: Nov-2026
+
+During incoming QC sampling on 12-Jul-2026, our analyst observed a distinct
+yellow-brown discoloration in 2 of the 5 drums (Drum IDs #3 and #4), compared
+to the off-white powder in the other three drums and the reference standard.
+Assay and related substances testing is in progress, but visual appearance
+is already out of specification per our incoming material SOP.
+
+No adverse events have been reported — this was caught at incoming inspection
+before use in manufacturing, so no finished product batches were affected.
+
+We are placing this batch on hold and would like your team to investigate
+potential root cause (storage/transport temperature excursion, raw material
+variability, or degradation) and confirm whether other batches from the same
+production campaign are affected. Please advise on CAPA and replacement
+timeline.
+
+Contact: Sarah Chen, QA Manager, Meridian Pharma Manufacturing
+Phone: +1-555-0142
+
+Regards,
+Sarah Chen
